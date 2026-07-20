@@ -14,7 +14,7 @@ Key details isolated by SCC:
 |---|---|
 | Description | An external member was invited as the owner of the project through the `InsertProjectOwnershipInvite` API |
 | Severity | High |
-| Caller IP | 197.185.134.193 (South Africa) |
+| Caller IP | xxx.xxx.xxx.xxx (South Africa) |
 | Method name | `InsertProjectOwnershipInvite` |
 | Principal email | `student-02-4ea97df26394@qwiklabs.net` |
 | Service name | `cloudresourcemanager.googleapis.com` |
